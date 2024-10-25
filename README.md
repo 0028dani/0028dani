@@ -52,6 +52,7 @@
     <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
     <img align="center" alt="Browser" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg">
 </div>
+&nbsp;&nbsp;&nbsp;
 
 ![snake gif](https://github.com/0028dani/0028dani/blob/output/github-contribution-grid-snake.gif)
 
