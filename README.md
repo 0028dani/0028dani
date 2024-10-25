@@ -4,7 +4,7 @@
 <h4 align="center"> Tenho mais de 5 anos de experiência como QA, com atuação nos setores bancário, de jogos, e-commerce e telefonia.</h4>
 
 &nbsp;&nbsp;&nbsp;
-## **📊 Statistics:** <img align="right" src="https://komarev.com/ghpvc/?username=0028dani&color=6A9142"><br>
+## **📊 Estatísticas:** <img align="right" src="https://komarev.com/ghpvc/?username=0028dani&color=fd6d95"><br>
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">
